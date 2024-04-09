@@ -98,7 +98,7 @@ body {
 }
 
 .layer1{
-    background-image: url("/Images/layered-waves-down.svg");
+    background-image: url("/Image/layered-waves-down.svg");
 }
 
 .spacer2{
@@ -110,5 +110,5 @@ body {
 }
 
 .layer2{
-    background-image: url("/Images/stacked-waves-haikei.svg");
+    background-image: url("/Image/stacked-waves-haikei.svg");
 }
